@@ -1,11 +1,11 @@
 # Clone the repository
-git clone https://github.com/YourUsername/my-website.git
+git clone https://github.com/Graxiaz/gracie.git
 
 # Navigate to the repository folder
-cd my-website
+cd gracie
 
 # Copy your HTML file into the repository folder
-cp /path/to/your/updatedprofile.html .
+cp "C:\Users\Gregoria B Paredes\OneDrive\Desktop\ECPE101\updatedprofile.html"
 
 # Add the file to the staging area
 git add updatedprofile.html
