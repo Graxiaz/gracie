@@ -1,2 +1,17 @@
-git clone https://github.com/Graxiaz/gracey.git
-cd "C:\Users\Gregoria B Paredes\OneDrive\Desktop\ECPE101\updatedprofile.html"
+# Clone the repository
+git clone https://github.com/YourUsername/my-website.git
+
+# Navigate to the repository folder
+cd my-website
+
+# Copy your HTML file into the repository folder
+cp /path/to/your/updatedprofile.html .
+
+# Add the file to the staging area
+git add updatedprofile.html
+
+# Commit the changes
+git commit -m "Add updated profile HTML file"
+
+# Push the changes to GitHub
+git push origin main
